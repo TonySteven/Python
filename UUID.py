@@ -12,5 +12,3 @@ def getuuid():
 
 uuid = getuuid()
 print(uuid)
-
-
