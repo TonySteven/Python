@@ -23,7 +23,8 @@ class Solution:
     def getKthFromEnd(head: ListNode, k: int) -> ListNode:
         former, latter = head, head
         for _ in range(k):
-            if not former: return
+            if not former:
+                return
             former = former.next
         while former:
             former, latter = former.next, latter.next
@@ -53,7 +54,8 @@ class LinkList(object):
         return r
 
     def printlist(self, head):
-        if head == None: return
+        if head == None:
+            return
         node = head
         while node != None:
             print(node.val, end='')
@@ -66,4 +68,3 @@ if __name__ == '__main__':
     l1 = l.initList(data1)
     l2 = Solution.getKthFromEnd(l1, k=3)
     l.printlist(l2)
-
