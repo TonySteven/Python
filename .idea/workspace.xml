@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer25 合并两个排序的链表">
-      <change afterPath="$PROJECT_DIR$/isSubStructure.py" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer26 树的子结构 代码">
+      <change afterPath="$PROJECT_DIR$/mirrorTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isSubStructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/isSubStructure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,29 +68,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.isSubStructure">
-    <configuration name="Offer 21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Offer 21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mirrorTree">
     <configuration name="getKthFromEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +135,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mirrorTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mirrorTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="reverseList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Offer 21" />
       <item itemvalue="Python.getKthFromEnd" />
       <item itemvalue="Python.reverseList" />
       <item itemvalue="Python.mergeTwoLists" />
       <item itemvalue="Python.isSubStructure" />
+      <item itemvalue="Python.mirrorTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mirrorTree" />
         <item itemvalue="Python.isSubStructure" />
         <item itemvalue="Python.mergeTwoLists" />
         <item itemvalue="Python.reverseList" />
         <item itemvalue="Python.getKthFromEnd" />
-        <item itemvalue="Python.Offer 21" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +227,8 @@
       <workItem from="1604064067588" duration="175000" />
       <workItem from="1604064434122" duration="23000" />
       <workItem from="1604064786631" duration="315000" />
-      <workItem from="1604065159075" duration="10427000" />
+      <workItem from="1604065159075" duration="11428000" />
+      <workItem from="1604566021653" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604376708992</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="提交Offer26 树的子结构 代码">
+      <created>1604513012024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604513012024</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -284,17 +293,18 @@
     <MESSAGE value="提交Offer 22 链表中倒数第k个节代码" />
     <MESSAGE value="提交Offer 24 反转链表" />
     <MESSAGE value="提交Offer25 合并两个排序的链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交Offer25 合并两个排序的链表" />
+    <MESSAGE value="提交Offer26 树的子结构 代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交Offer26 树的子结构 代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604069103062">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604376708818">
+    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604513011867">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604376708818" />
+    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604513011867" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -307,51 +317,51 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="699" y="422" key="FileChooserDialogImpl/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1601711550955" />
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1604512961816">
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1604566000741">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214626" />
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512961816" />
-    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1604512961815">
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000741" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1604566000739">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214625" />
-    <state width="1878" height="310" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512961815" />
-    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1604512961812">
+    <state width="1878" height="366" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000739" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1604566000738">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214624" />
-    <state width="1878" height="310" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512961812" />
-    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1604512961816">
+    <state width="1878" height="366" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000738" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1604566000740">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214625" />
-    <state width="1878" height="310" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512961816" />
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1604512866425">
+    <state width="1878" height="366" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000740" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1604566000743">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512866425" />
-    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1604512866423">
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000743" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1604566000742">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512866423" />
-    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1604512866422">
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000742" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1604566000741">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512866422" />
-    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1604512866424">
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000741" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1604566000742">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604512866424" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566000742" />
     <state x="390" y="169" key="SettingsEditor" timestamp="1604377871635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604376710275">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604513013452">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604376710275" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604513013452" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -373,6 +383,16 @@
           <url>file://$PROJECT_DIR$/isSubStructure.py</url>
           <line>43</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mirrorTree.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mirrorTree.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -397,6 +417,7 @@
     <SUITE FILE_PATH="coverage/Python$isSubStructure.coverage" NAME="isSubStructure Coverage Results" MODIFIED="1604512961802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Offer_21.coverage" NAME="Offer 21 Coverage Results" MODIFIED="1604165531438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$mirrorTree.coverage" NAME="mirrorTree Coverage Results" MODIFIED="1604566543863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$two_nums.coverage" NAME="two_nums Coverage Results" MODIFIED="1602317261181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
