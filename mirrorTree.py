@@ -44,12 +44,12 @@ class Solution:
         root.right = self.mirrorTree(tmp)
         return root
 
+
 if __name__ == '__main__':
-    t1 = [4,2,7,1,3,6,9]
+    t1 = [4, 2, 7, 1, 3, 6, 9]
     tree1 = Tree()
     for i in t1:
         tree1.add(i)
-
 
     s = Solution()
     result = s.mirrorTree(tree1.root)
