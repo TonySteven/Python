@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer27. 二叉树的镜像代码">
-      <change beforePath="$PROJECT_DIR$/mirrorTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/mirrorTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isSymmetric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,29 +67,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mirrorTree">
-    <configuration name="getKthFromEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getKthFromEnd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.isSymmetric">
     <configuration name="isSubStructure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +82,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isSubStructure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="isSymmetric" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isSymmetric.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +179,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.getKthFromEnd" />
       <item itemvalue="Python.reverseList" />
       <item itemvalue="Python.mergeTwoLists" />
       <item itemvalue="Python.isSubStructure" />
       <item itemvalue="Python.mirrorTree" />
+      <item itemvalue="Python.isSymmetric" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.isSymmetric" />
         <item itemvalue="Python.mirrorTree" />
         <item itemvalue="Python.isSubStructure" />
         <item itemvalue="Python.mergeTwoLists" />
         <item itemvalue="Python.reverseList" />
-        <item itemvalue="Python.getKthFromEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +227,8 @@
       <workItem from="1604064434122" duration="23000" />
       <workItem from="1604064786631" duration="315000" />
       <workItem from="1604065159075" duration="11428000" />
-      <workItem from="1604566021653" duration="725000" />
+      <workItem from="1604566021653" duration="989000" />
+      <workItem from="1604627761656" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -277,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604566644279</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="提交Offer27. 二叉树的镜像代码">
+      <created>1604566781378</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604566781378</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -307,10 +316,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604566643980">
+    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604566781206">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566643980" />
+    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566781206" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -323,51 +332,55 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="699" y="422" key="FileChooserDialogImpl/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1601711550955" />
-    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1604566544452">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.0.bottom" timestamp="1604621860608">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214626" />
+    <state width="1638" height="366" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860608" />
     <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566544452" />
-    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1604566544449">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.0.center" timestamp="1604621860607">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214625" />
+    <state width="1638" height="366" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860607" />
     <state width="1878" height="366" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566544449" />
-    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1604566544448">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.0.left" timestamp="1604621860607">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214624" />
+    <state width="1638" height="366" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860607" />
     <state width="1878" height="366" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566544448" />
-    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1604566544451">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.0.right" timestamp="1604621860608">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602320214625" />
+    <state width="1638" height="366" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860608" />
     <state width="1878" height="366" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566544451" />
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1604566545323">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.1.bottom" timestamp="1604621860610">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="366" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860610" />
     <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566545323" />
-    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1604566545321">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.1.center" timestamp="1604621860609">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="366" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566545321" />
-    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1604566545319">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.1.left" timestamp="1604621860609">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="366" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566545319" />
-    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1604566545322">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="366" key="GridCell.Tab.1.right" timestamp="1604621860609">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="366" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566545322" />
     <state x="390" y="169" key="SettingsEditor" timestamp="1604377871635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604566646636">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604566783992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566646636" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566783992" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -389,16 +402,6 @@
           <url>file://$PROJECT_DIR$/isSubStructure.py</url>
           <line>43</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mirrorTree.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mirrorTree.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
