@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer 28. 对称的二叉树 代码">
-      <change afterPath="$PROJECT_DIR$/spiralOrder.py" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer 29. 顺时针打印矩阵">
+      <change afterPath="$PROJECT_DIR$/firstUniqChar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,29 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.spiralOrder">
+  <component name="RunManager" selected="Python.firstUniqChar">
+    <configuration name="firstUniqChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstUniqChar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="isSubStructure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,28 +126,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isSymmetric.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mergeTwoLists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mergeTwoLists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +179,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.mergeTwoLists" />
       <item itemvalue="Python.isSubStructure" />
-      <item itemvalue="Python.mirrorTree" />
       <item itemvalue="Python.isSymmetric" />
+      <item itemvalue="Python.mirrorTree" />
       <item itemvalue="Python.spiralOrder" />
+      <item itemvalue="Python.firstUniqChar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.firstUniqChar" />
         <item itemvalue="Python.spiralOrder" />
         <item itemvalue="Python.isSymmetric" />
         <item itemvalue="Python.mirrorTree" />
         <item itemvalue="Python.isSubStructure" />
-        <item itemvalue="Python.mergeTwoLists" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,11 @@
       <workItem from="1604065159075" duration="11428000" />
       <workItem from="1604566021653" duration="989000" />
       <workItem from="1604627761656" duration="703000" />
-      <workItem from="1604649616431" duration="529000" />
+      <workItem from="1604649616431" duration="960000" />
+      <workItem from="1604929388546" duration="156000" />
+      <workItem from="1604930407272" duration="943000" />
+      <workItem from="1604938545324" duration="54000" />
+      <workItem from="1605150776638" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -294,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604628474474</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="提交Offer 29. 顺时针打印矩阵">
+      <created>1604763936076</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604763936077</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -318,17 +329,18 @@
     <MESSAGE value="提交Offer26 树的子结构 代码" />
     <MESSAGE value="提交Offer27. 二叉树的镜像代码" />
     <MESSAGE value="提交Offer 28. 对称的二叉树 代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交Offer 28. 对称的二叉树 代码" />
+    <MESSAGE value="提交Offer 29. 顺时针打印矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交Offer 29. 顺时针打印矩阵" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604069103062">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604566781206">
+    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1604763935817">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566781206" />
+    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763935817" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -341,26 +353,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="699" y="422" key="FileChooserDialogImpl/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1601711550955" />
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1604763919612">
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom" timestamp="1604929107174">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860608" />
-    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763919612" />
-    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1604763919608">
+    <state width="1878" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604929107174" />
+    <state width="1878" height="310" key="GridCell.Tab.0.center" timestamp="1604929107172">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860607" />
-    <state width="1878" height="310" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763919608" />
-    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1604763919606">
+    <state width="1878" height="310" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604929107172" />
+    <state width="1878" height="310" key="GridCell.Tab.0.left" timestamp="1604929107171">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860607" />
-    <state width="1878" height="310" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763919606" />
-    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1604763919609">
+    <state width="1878" height="310" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604929107171" />
+    <state width="1878" height="310" key="GridCell.Tab.0.right" timestamp="1604929107173">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860608" />
-    <state width="1878" height="310" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763919609" />
+    <state width="1878" height="310" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604929107173" />
     <state width="1638" height="366" key="GridCell.Tab.1.bottom" timestamp="1604621860610">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -386,10 +398,10 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604566783992">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604763939884">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604566783992" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763939884" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -427,6 +439,7 @@
     <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$520.coverage" NAME="520 Coverage Results" MODIFIED="1571625797213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$house_robber_ii.coverage" NAME="house-robber-ii Coverage Results" MODIFIED="1604068932398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1605151821194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$upper.coverage" NAME="upper Coverage Results" MODIFIED="1560494056857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isSymmetric.coverage" NAME="isSymmetric Coverage Results" MODIFIED="1604628255170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1571052233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
