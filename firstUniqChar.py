@@ -4,10 +4,11 @@
 # @Author  : StevenL
 # @Email   : stevenl365404@gmail.com
 # @File    : firstUniqChar.py
+import string
 
 
 class Solution:
-    def firstUniqChar(self, s: str) -> str:
+    def firstUniqChar(self, s: string) -> string:
         dic = {}
         for c in s:
             dic[c] = not c in dic
@@ -20,5 +21,5 @@ if __name__ == '__main__':
     str = 'abaccdeff'
 
     s = Solution()
-    result = s.firstUniqChar(str)
+    result = s.firstUniqChar(s=str)
     print(result)
