@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交Offer 50. 第一个只出现一次的字符代码">
-      <change afterPath="$PROJECT_DIR$/reverseWords.py" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 翻转单词顺序 代码">
+      <change afterPath="$PROJECT_DIR$/reverseLeftWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverseWords">
+  <component name="RunManager" selected="Python.reverseLeftWords">
     <configuration name="firstUniqChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mirrorTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverseLeftWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +126,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mirrorTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseLeftWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,17 +182,17 @@
     <list>
       <item itemvalue="Python.firstUniqChar" />
       <item itemvalue="Python.isSymmetric" />
-      <item itemvalue="Python.mirrorTree" />
       <item itemvalue="Python.spiralOrder" />
       <item itemvalue="Python.reverseWords" />
+      <item itemvalue="Python.reverseLeftWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverseLeftWords" />
         <item itemvalue="Python.reverseWords" />
         <item itemvalue="Python.isSymmetric" />
         <item itemvalue="Python.firstUniqChar" />
         <item itemvalue="Python.spiralOrder" />
-        <item itemvalue="Python.mirrorTree" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,7 @@
       <workItem from="1605246904136" duration="59000" />
       <workItem from="1605504644879" duration="554000" />
       <workItem from="1605802510302" duration="14000" />
-      <workItem from="1605843528379" duration="1105000" />
+      <workItem from="1605843528379" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -323,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605152128483</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="提交 翻转单词顺序 代码">
+      <created>1605845119097</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605845119097</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -349,17 +357,18 @@
     <MESSAGE value="提交Offer 28. 对称的二叉树 代码" />
     <MESSAGE value="提交Offer 29. 顺时针打印矩阵" />
     <MESSAGE value="提交Offer 50. 第一个只出现一次的字符代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交Offer 50. 第一个只出现一次的字符代码" />
+    <MESSAGE value="提交 翻转单词顺序 代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交 翻转单词顺序 代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604069103062">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="470" y="109" key="CommitChangelistDialog2" timestamp="1605152128296">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1605845118844">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763935817" />
+    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605845118844" />
     <state x="470" y="109" key="CommitChangelistDialog2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152128296" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -373,30 +382,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="699" y="422" key="FileChooserDialogImpl/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1601711550955" />
-    <state width="1878" height="309" key="GridCell.Tab.0.bottom" timestamp="1605844443766">
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom" timestamp="1605978473151">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868720" />
-    <state width="1878" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605844443766" />
+    <state width="1878" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605978473151" />
     <state width="1638" height="299" key="GridCell.Tab.0.bottom/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121739" />
-    <state width="1878" height="309" key="GridCell.Tab.0.center" timestamp="1605844443764">
+    <state width="1878" height="309" key="GridCell.Tab.0.center" timestamp="1605978473149">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868719" />
-    <state width="1878" height="309" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605844443764" />
+    <state width="1878" height="309" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605978473149" />
     <state width="1638" height="299" key="GridCell.Tab.0.center/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121737" />
-    <state width="1878" height="309" key="GridCell.Tab.0.left" timestamp="1605844443762">
+    <state width="1878" height="309" key="GridCell.Tab.0.left" timestamp="1605978473148">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868718" />
-    <state width="1878" height="309" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605844443762" />
+    <state width="1878" height="309" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605978473148" />
     <state width="1638" height="299" key="GridCell.Tab.0.left/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121735" />
     <state width="1878" height="309" key="GridCell.Tab.0.left/52.0.1868.1080/1920.97.1440.875@52.0.1868.1080" timestamp="1605802468063" />
-    <state width="1878" height="309" key="GridCell.Tab.0.right" timestamp="1605844443765">
+    <state width="1878" height="309" key="GridCell.Tab.0.right" timestamp="1605978473150">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868720" />
-    <state width="1878" height="309" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605844443765" />
+    <state width="1878" height="309" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605978473150" />
     <state width="1638" height="299" key="GridCell.Tab.0.right/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121738" />
     <state width="1638" height="366" key="GridCell.Tab.1.bottom" timestamp="1604621860610">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -423,10 +432,10 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1605152131252">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605845225863">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604763939884" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1605845225863" />
     <state x="490" y="272" key="Vcs.Push.Dialog.v2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152131252" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -474,6 +483,7 @@
     <SUITE FILE_PATH="coverage/Python$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1571055606999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$is_unique_lcci.coverage" NAME="is-unique-lcci Coverage Results" MODIFIED="1602320214614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$getKthFromEnd.coverage" NAME="getKthFromEnd Coverage Results" MODIFIED="1604246716382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$reverseLeftWords.coverage" NAME="reverseLeftWords Coverage Results" MODIFIED="1605978473137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isSubStructure.coverage" NAME="isSubStructure Coverage Results" MODIFIED="1604512961802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Offer_21.coverage" NAME="Offer 21 Coverage Results" MODIFIED="1604165531438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
