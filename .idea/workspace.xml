@@ -19,15 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/steven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:steven" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 Offer 59 - I. 滑动窗口的最大值 代码">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 Offer 61. 扑克牌中的顺子 代码">
+      <change beforePath="$PROJECT_DIR$/maxSlidingWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/maxSlidingWindow.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +56,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JupyterTrust" id="8ae67d62-ac7e-4f78-819d-4e782494a45d" />
   <component name="ProjectId" id="1iJKatSjEONNX0XvseHlb77N04G" />
@@ -203,11 +203,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.isSymmetric" />
-      <item itemvalue="Python.reverseWords" />
-      <item itemvalue="Python.reverseLeftWords" />
-      <item itemvalue="Python.maxSlidingWindow" />
       <item itemvalue="Python.isStraight" />
+      <item itemvalue="Python.isSymmetric" />
+      <item itemvalue="Python.maxSlidingWindow" />
+      <item itemvalue="Python.reverseLeftWords" />
+      <item itemvalue="Python.reverseWords" />
     </list>
     <recent_temporary>
       <list>
@@ -261,7 +261,7 @@
       <workItem from="1605246904136" duration="59000" />
       <workItem from="1605504644879" duration="554000" />
       <workItem from="1605802510302" duration="14000" />
-      <workItem from="1605843528379" duration="3726000" />
+      <workItem from="1605843528379" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606232701149</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="提交 Offer 61. 扑克牌中的顺子 代码">
+      <created>1606232781849</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606232781849</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -401,7 +408,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/steven" />
+                        <option value="steven" />
                       </list>
                     </value>
                   </entry>
@@ -427,17 +434,22 @@
     <MESSAGE value="提交 翻转单词顺序 代码" />
     <MESSAGE value="提交 左旋转字符串 代码" />
     <MESSAGE value="提交 Offer 59 - I. 滑动窗口的最大值 代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交 Offer 59 - I. 滑动窗口的最大值 代码" />
+    <MESSAGE value="提交 Offer 61. 扑克牌中的顺子 代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交 Offer 61. 扑克牌中的顺子 代码" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="675" y="368" key="#Notifications" timestamp="1606232813318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="675" y="368" key="#Notifications/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232813318" />
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604069103062">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1606232700864">
+    <state x="537" y="112" key="CommitChangelistDialog2" timestamp="1606232781674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232700864" />
+    <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232781674" />
     <state x="470" y="109" key="CommitChangelistDialog2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152128296" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -451,6 +463,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="699" y="422" key="FileChooserDialogImpl/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1601711550955" />
+    <state x="756" y="441" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1606232829357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="441" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232829357" />
     <state width="939" height="309" key="GridCell.Tab.0.bottom" timestamp="1606232722227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -496,15 +512,19 @@
     </state>
     <state width="1638" height="366" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="939" height="378" key="GridCell.Tab.1.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232687377" />
+    <state x="598" y="305" key="MultipleFileMergeDialog" timestamp="1606232852242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="305" key="MultipleFileMergeDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232852242" />
     <state x="390" y="169" key="SettingsEditor" timestamp="1604377871635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1606232705754">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1606232833578">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232705754" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232833578" />
     <state x="490" y="272" key="Vcs.Push.Dialog.v2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152131252" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />

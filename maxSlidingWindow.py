@@ -23,7 +23,7 @@ class Solution:
         return res
 
     def maxSlidingWindow2(self, nums: List[int], k: int) -> List[int]:
-        # 可以将 “未形成窗口” 和 “形成窗口后” 两个阶段拆分到两个循环里实现。代码虽变长，但减少了冗余的判断操作。
+        ## 可以将 “未形成窗口” 和 “形成窗口后” 两个阶段拆分到两个循环里实现。代码虽变长，但减少了冗余的判断操作。
         if not nums or k == 0: return []
         deque = collections.deque()
         for i in range(k):  # 未形成窗口
@@ -46,5 +46,5 @@ if __name__ == '__main__':
     k = 3
 
     s = Solution()
-    result = s.maxSlidingWindow2(nums=nums, k=k)
+    result = s.maxSlidingWindow(nums=nums, k=k)
     print(result)
