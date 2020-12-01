@@ -25,8 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 Offer 62. 圆圈中最后剩下的数字 约瑟夫环题 代码">
-      <change afterPath="$PROJECT_DIR$/maxProfit.py" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 Offer 63. 股票的最大利润(动态规划) 代码">
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,29 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.maxProfit">
+  <component name="RunManager" selected="Python.fibonacci">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="isStraight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,42 +203,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseLeftWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseLeftWords.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.reverseLeftWords" />
       <item itemvalue="Python.maxSlidingWindow" />
       <item itemvalue="Python.isStraight" />
       <item itemvalue="Python.lastRemaining" />
       <item itemvalue="Python.maxProfit" />
+      <item itemvalue="Python.fibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fibonacci" />
         <item itemvalue="Python.maxProfit" />
         <item itemvalue="Python.lastRemaining" />
         <item itemvalue="Python.isStraight" />
         <item itemvalue="Python.maxSlidingWindow" />
-        <item itemvalue="Python.reverseLeftWords" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,7 @@
       <workItem from="1605504644879" duration="554000" />
       <workItem from="1605802510302" duration="14000" />
       <workItem from="1605843528379" duration="4116000" />
-      <workItem from="1606288353939" duration="1558000" />
+      <workItem from="1606288353939" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -398,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606291053625</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="提交 Offer 63. 股票的最大利润(动态规划) 代码">
+      <created>1606377998699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606377998699</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -453,7 +460,8 @@
     <MESSAGE value="提交 Offer 59 - I. 滑动窗口的最大值 代码" />
     <MESSAGE value="提交 Offer 61. 扑克牌中的顺子 代码" />
     <MESSAGE value="提交 Offer 62. 圆圈中最后剩下的数字 约瑟夫环题 代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交 Offer 62. 圆圈中最后剩下的数字 约瑟夫环题 代码" />
+    <MESSAGE value="提交 Offer 63. 股票的最大利润(动态规划) 代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交 Offer 63. 股票的最大利润(动态规划) 代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="675" y="368" key="#Notifications" timestamp="1606232813318">
@@ -464,10 +472,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604069103062" />
-    <state x="537" y="112" width="1014" height="862" key="CommitChangelistDialog2" timestamp="1606291053375">
+    <state x="537" y="112" width="1014" height="862" key="CommitChangelistDialog2" timestamp="1606377998503">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="537" y="112" width="1014" height="862" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606291053375" />
+    <state x="537" y="112" width="1014" height="862" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377998503" />
     <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232913397" />
     <state x="470" y="109" key="CommitChangelistDialog2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152128296" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
@@ -486,59 +494,67 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="756" y="441" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232829357" />
-    <state width="1878" height="378" key="GridCell.Tab.0.bottom" timestamp="1606377723513">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="431" key="GridCell.Tab.0.bottom" timestamp="1606812766081">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868720" />
     <state width="1878" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377723513" />
     <state width="939" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485609" />
+    <state width="2518" height="431" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812766081" />
     <state width="1638" height="299" key="GridCell.Tab.0.bottom/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121739" />
-    <state width="1878" height="378" key="GridCell.Tab.0.center" timestamp="1606377723511">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="431" key="GridCell.Tab.0.center" timestamp="1606812766079">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868719" />
     <state width="1878" height="378" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377723511" />
     <state width="939" height="378" key="GridCell.Tab.0.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485607" />
+    <state width="2518" height="431" key="GridCell.Tab.0.center/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812766079" />
     <state width="1638" height="299" key="GridCell.Tab.0.center/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121737" />
-    <state width="1878" height="378" key="GridCell.Tab.0.left" timestamp="1606377723509">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="431" key="GridCell.Tab.0.left" timestamp="1606812766078">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868718" />
     <state width="1878" height="378" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377723509" />
     <state width="939" height="378" key="GridCell.Tab.0.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485606" />
+    <state width="2518" height="431" key="GridCell.Tab.0.left/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812766078" />
     <state width="1638" height="299" key="GridCell.Tab.0.left/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121735" />
     <state width="1878" height="309" key="GridCell.Tab.0.left/52.0.1868.1080/1920.97.1440.875@52.0.1868.1080" timestamp="1605802468063" />
-    <state width="1878" height="378" key="GridCell.Tab.0.right" timestamp="1606377723512">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="431" key="GridCell.Tab.0.right" timestamp="1606812766080">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="299" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605152868720" />
     <state width="1878" height="378" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377723512" />
     <state width="939" height="378" key="GridCell.Tab.0.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485608" />
+    <state width="2518" height="431" key="GridCell.Tab.0.right/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812766080" />
     <state width="1638" height="299" key="GridCell.Tab.0.right/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152121738" />
-    <state width="1878" height="378" key="GridCell.Tab.1.bottom" timestamp="1606377724694">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom" timestamp="1606812735168">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860610" />
     <state width="1878" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377724694" />
     <state width="939" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485611" />
-    <state width="1878" height="378" key="GridCell.Tab.1.center" timestamp="1606377724693">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812735168" />
+    <state width="2518" height="378" key="GridCell.Tab.1.center" timestamp="1606812735166">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="378" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377724693" />
     <state width="939" height="378" key="GridCell.Tab.1.center/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485610" />
-    <state width="1878" height="378" key="GridCell.Tab.1.left" timestamp="1606377724690">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="378" key="GridCell.Tab.1.center/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812735166" />
+    <state width="2518" height="378" key="GridCell.Tab.1.left" timestamp="1606812735165">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="378" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377724690" />
     <state width="939" height="378" key="GridCell.Tab.1.left/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485609" />
-    <state width="1878" height="378" key="GridCell.Tab.1.right" timestamp="1606377724694">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="2518" height="378" key="GridCell.Tab.1.left/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812735165" />
+    <state width="2518" height="378" key="GridCell.Tab.1.right" timestamp="1606812735167">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1638" height="366" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604621860609" />
     <state width="1878" height="378" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377724694" />
     <state width="939" height="378" key="GridCell.Tab.1.right/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606233485611" />
+    <state width="2518" height="378" key="GridCell.Tab.1.right/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606812735167" />
     <state x="598" y="305" key="MultipleFileMergeDialog" timestamp="1606232852242">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -548,10 +564,10 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1606291057124">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1606378002657">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606291057124" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606378002657" />
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232921954" />
     <state x="490" y="272" key="Vcs.Push.Dialog.v2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152131252" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
@@ -602,6 +618,7 @@
     <SUITE FILE_PATH="coverage/Python$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1606377723021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isSymmetric.coverage" NAME="isSymmetric Coverage Results" MODIFIED="1605504975192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$lastRemaining.coverage" NAME="lastRemaining Coverage Results" MODIFIED="1606290433151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1606812766067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1571052233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$spiralOrder.coverage" NAME="spiralOrder Coverage Results" MODIFIED="1604763919575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1571055606999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
