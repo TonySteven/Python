@@ -25,8 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 Offer 64. 求1+2+…+n求和 代码">
-      <change afterPath="$PROJECT_DIR$/isValidSubsequence.py" afterDir="false" />
+    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="提交 isValidSubsequence 代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +271,7 @@
       <workItem from="1606894429776" duration="176000" />
       <workItem from="1606894636802" duration="262000" />
       <workItem from="1607260491628" duration="802000" />
-      <workItem from="1608306898623" duration="486000" />
+      <workItem from="1608306898623" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -428,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606835416401</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="提交 isValidSubsequence 代码">
+      <created>1608307412660</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608307412660</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -486,7 +492,8 @@
     <MESSAGE value="提交 Offer 63. 股票的最大利润(动态规划) 代码" />
     <MESSAGE value="提交 生成器生成斐波那契 代码" />
     <MESSAGE value="提交 Offer 64. 求1+2+…+n求和 代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交 Offer 64. 求1+2+…+n求和 代码" />
+    <MESSAGE value="提交 isValidSubsequence 代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交 isValidSubsequence 代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="675" y="368" key="#Notifications" timestamp="1606232813318">
@@ -501,12 +508,12 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="971" y="526" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1608307320993" />
-    <state x="716" y="149" width="1014" height="862" key="CommitChangelistDialog2" timestamp="1606835416224">
+    <state x="716" y="149" width="1014" height="862" key="CommitChangelistDialog2" timestamp="1608520319043">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="537" y="112" width="1014" height="862" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606377998503" />
     <state x="537" y="112" key="CommitChangelistDialog2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232913397" />
-    <state x="716" y="149" key="CommitChangelistDialog2/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606835416224" />
+    <state x="716" y="149" key="CommitChangelistDialog2/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1608520319043" />
     <state x="470" y="109" key="CommitChangelistDialog2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152128296" />
     <state width="659" height="466" key="DebuggerActiveHint" timestamp="1604511898597">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -604,12 +611,12 @@
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602317206118" />
     <state x="390" y="169" key="SettingsEditor/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1604377871635" />
     <state x="964" y="677" key="SettingsEditor/52.25.2508.1415/2560.415.1680.1025@52.25.2508.1415" timestamp="1606893871575" />
-    <state x="747" y="373" key="Vcs.Push.Dialog.v2" timestamp="1606835419835">
+    <state x="747" y="373" key="Vcs.Push.Dialog.v2" timestamp="1608307415329">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1606378002657" />
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.72.1440.900@0.0.1920.1080" timestamp="1606232921954" />
-    <state x="747" y="373" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1606835419834" />
+    <state x="747" y="373" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.390.1680.1050@0.0.2560.1440" timestamp="1608307415329" />
     <state x="490" y="272" key="Vcs.Push.Dialog.v2/1680.0.1366.1024/0.0.1680.1050@0.0.1680.1050" timestamp="1605152131252" />
     <state x="500" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604512853528">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -648,6 +655,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1608307391047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1605152121723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$upper.coverage" NAME="upper Coverage Results" MODIFIED="1560494056857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
