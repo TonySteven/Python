@@ -7,8 +7,6 @@
 
 import requests;
 
-
-
 rs = requests.session()
 r = rs.get('https://www.baidu.com', verify=False).content
 

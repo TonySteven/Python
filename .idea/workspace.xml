@@ -26,9 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BingDwenDwen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skipSSLTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skipSSL.py" beforeDir="false" afterPath="$PROJECT_DIR$/skipSSL.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +67,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///opt/anaconda3/lib/python3.8/site-packages/requests/sessions.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="JupyterTrust" id="67665d26-645e-4a15-a5fe-7a1faf61453a">
     <option name="files">
       <option value="爬虫/request.ipynb" />
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1iJKatSjEONNX0XvseHlb77N04G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -101,13 +115,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/爬虫" />
       <recent name="$PROJECT_DIR$/爬虫/mySpider/mySpider/spiders" />
       <recent name="$PROJECT_DIR$/爬虫/mySpider" />
       <recent name="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BingDwenDwen">
+  <component name="RunManager" selected="Python.skipSSLTest">
     <configuration name="BingDwenDwen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +159,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jsonDump.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="skipSSLTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skipSSLTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,42 +233,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tessercat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Tesseract 图像识别/tessercat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.tessercat" />
       <item itemvalue="Python.spilt" />
       <item itemvalue="Python.spiltAndTurnObjact" />
       <item itemvalue="Python.jsonDump" />
       <item itemvalue="Python.BingDwenDwen" />
+      <item itemvalue="Python.skipSSLTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.skipSSLTest" />
         <item itemvalue="Python.BingDwenDwen" />
         <item itemvalue="Python.spilt" />
         <item itemvalue="Python.jsonDump" />
         <item itemvalue="Python.spiltAndTurnObjact" />
-        <item itemvalue="Python.tessercat" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +319,8 @@
       <workItem from="1637137638513" duration="1090000" />
       <workItem from="1641282056805" duration="195000" />
       <workItem from="1641282341044" duration="817000" />
-      <workItem from="1644460202639" duration="318000" />
+      <workItem from="1644460202639" duration="1390000" />
+      <workItem from="1644898349950" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
       <created>1604072900772</created>
@@ -495,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635411907884</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: 冰墩墩py">
+      <created>1644460743138</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1644460743139</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -557,7 +580,8 @@
     <MESSAGE value="提交 quickSort 代码" />
     <MESSAGE value="学习scrapy框架" />
     <MESSAGE value="feat: json格式化" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: json格式化" />
+    <MESSAGE value="feat: 冰墩墩py" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 冰墩墩py" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -597,6 +621,7 @@
     <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1606377723021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$spilt.coverage" NAME="spilt 覆盖结果" MODIFIED="1635407576824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$skipSSLTest.coverage" NAME="skipSSLTest Coverage Results" MODIFIED="1644899630322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1608307391047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$itcast.coverage" NAME="itcast Coverage Results" MODIFIED="1615351817146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyProject/mySpider/mySpider/spiders" />
     <SUITE FILE_PATH="coverage/Python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1606812766067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -606,7 +631,7 @@
     <SUITE FILE_PATH="coverage/Python$spiltAndTurnObjact.coverage" NAME="spiltAndTurnObjact 覆盖结果" MODIFIED="1635406860742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$tessercat.coverage" NAME="tessercat Coverage Results" MODIFIED="1615346040515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
     <SUITE FILE_PATH="coverage/Python$quickSort.coverage" NAME="quickSort Coverage Results" MODIFIED="1608779644627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/Python$BingDwenDwen.coverage" NAME="BingDwenDwen Coverage Results" MODIFIED="1644460521913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$BingDwenDwen.coverage" NAME="BingDwenDwen Coverage Results" MODIFIED="1644898891442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$reverseLeftWords.coverage" NAME="reverseLeftWords Coverage Results" MODIFIED="1605978473137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$reverseList.coverage" NAME="reverseList Coverage Results" MODIFIED="1604329298804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isStraight.coverage" NAME="isStraight Coverage Results" MODIFIED="1606232687350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
