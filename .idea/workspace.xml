@@ -1,48 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:steven" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/skipSSLTest.py" afterDir="false" />
+    <list default="true" id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/json/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/唐央央.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/唐央央_life.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/小煵.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/小煵_life.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/高品质烟缸.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skipSSL.py" beforeDir="false" afterPath="$PROJECT_DIR$/skipSSL.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$solution217.coverage" NAME="solution217 Coverage Results" MODIFIED="1551942933757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$skipSSL.coverage" NAME="skipSSL Coverage Results" MODIFIED="1551937592112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -59,34 +35,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="steven" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file:///opt/anaconda3/lib/python3.8/site-packages/requests/sessions.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="JupyterTrust" id="67665d26-645e-4a15-a5fe-7a1faf61453a">
-    <option name="files">
-      <option value="爬虫/request.ipynb" />
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="1iJKatSjEONNX0XvseHlb77N04G" />
+  <component name="ProjectId" id="258LVzuVCT0M3r2g3SFhfxtTx46" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -98,31 +73,19 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ChangesTree.GroupingKeys" value="" />
-    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/json/data" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/爬虫" />
-      <recent name="$PROJECT_DIR$/爬虫/mySpider/mySpider/spiders" />
-      <recent name="$PROJECT_DIR$/爬虫/mySpider" />
-      <recent name="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
+      <recent name="$PROJECT_DIR$/json/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.skipSSLTest">
+  <component name="RunManager" selected="Python.analysis">
     <configuration name="BingDwenDwen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +100,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BingDwenDwen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,399 +196,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spilt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spilt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spiltAndTurnObjact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiltAndTurnObjact.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.spilt" />
-      <item itemvalue="Python.spiltAndTurnObjact" />
-      <item itemvalue="Python.jsonDump" />
-      <item itemvalue="Python.BingDwenDwen" />
-      <item itemvalue="Python.skipSSLTest" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.json" />
         <item itemvalue="Python.skipSSLTest" />
         <item itemvalue="Python.BingDwenDwen" />
-        <item itemvalue="Python.spilt" />
         <item itemvalue="Python.jsonDump" />
-        <item itemvalue="Python.spiltAndTurnObjact" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b940069e-169f-4c9e-a44b-c03bbf49eb35" name="Default" comment="" />
-      <created>1551937438338</created>
+      <changelist id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment="" />
+      <created>1644903799801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551937438338</updated>
-      <workItem from="1560493848213" duration="114000" />
-      <workItem from="1560494032954" duration="74000" />
-      <workItem from="1568103992850" duration="467000" />
-      <workItem from="1571047131846" duration="6270000" />
-      <workItem from="1571382916465" duration="93000" />
-      <workItem from="1571625700998" duration="283000" />
-      <workItem from="1575963186558" duration="1500000" />
-      <workItem from="1578392035081" duration="427000" />
-      <workItem from="1601618856946" duration="668000" />
-      <workItem from="1601619738433" duration="68000" />
-      <workItem from="1601620328218" duration="93000" />
-      <workItem from="1601620522810" duration="537000" />
-      <workItem from="1601662125062" duration="2079000" />
-      <workItem from="1601810851691" duration="19000" />
-      <workItem from="1601968983116" duration="322000" />
-      <workItem from="1602313225941" duration="4861000" />
-      <workItem from="1602435047472" duration="64000" />
-      <workItem from="1604064067588" duration="175000" />
-      <workItem from="1604064434122" duration="23000" />
-      <workItem from="1604064786631" duration="315000" />
-      <workItem from="1604065159075" duration="11428000" />
-      <workItem from="1604566021653" duration="989000" />
-      <workItem from="1604627761656" duration="703000" />
-      <workItem from="1604649616431" duration="960000" />
-      <workItem from="1604929388546" duration="156000" />
-      <workItem from="1604930407272" duration="943000" />
-      <workItem from="1604938545324" duration="54000" />
-      <workItem from="1605150776638" duration="1327000" />
-      <workItem from="1605246904136" duration="59000" />
-      <workItem from="1605504644879" duration="554000" />
-      <workItem from="1605802510302" duration="14000" />
-      <workItem from="1605843528379" duration="4116000" />
-      <workItem from="1606288353939" duration="3268000" />
-      <workItem from="1606893472704" duration="136000" />
-      <workItem from="1606893793065" duration="89000" />
-      <workItem from="1606894203924" duration="11000" />
-      <workItem from="1606894301564" duration="28000" />
-      <workItem from="1606894429776" duration="176000" />
-      <workItem from="1606894636802" duration="262000" />
-      <workItem from="1607260491628" duration="802000" />
-      <workItem from="1608306898623" duration="6535000" />
-      <workItem from="1612413551954" duration="3473000" />
-      <workItem from="1615343871667" duration="13609000" />
-      <workItem from="1615510348246" duration="86000" />
-      <workItem from="1615511363856" duration="1113000" />
-      <workItem from="1615915768550" duration="17000" />
-      <workItem from="1628155941300" duration="39000" />
-      <workItem from="1628155984801" duration="187000" />
-      <workItem from="1628654511233" duration="205000" />
-      <workItem from="1628654763175" duration="239000" />
-      <workItem from="1628655023805" duration="250000" />
-      <workItem from="1628655578946" duration="100000" />
-      <workItem from="1628655706491" duration="629000" />
-      <workItem from="1635401328015" duration="11292000" />
-      <workItem from="1636344109278" duration="1849000" />
-      <workItem from="1637137638513" duration="1090000" />
-      <workItem from="1641282056805" duration="195000" />
-      <workItem from="1641282341044" duration="817000" />
-      <workItem from="1644460202639" duration="1390000" />
-      <workItem from="1644898349950" duration="1408000" />
+      <updated>1644903799801</updated>
+      <workItem from="1644903801247" duration="769000" />
+      <workItem from="1644905567477" duration="186000" />
+      <workItem from="1647943104384" duration="3105000" />
     </task>
-    <task id="LOCAL-00001" summary="提交“打家劫舍”代码">
-      <created>1604072900772</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604072900772</updated>
-    </task>
-    <task id="LOCAL-00002" summary="提交Offer 21. 调整数组顺序使奇数位于偶数前面代码">
-      <created>1604165586961</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604165586961</updated>
-    </task>
-    <task id="LOCAL-00003" summary="提交Offer 22 链表中倒数第k个节代码">
-      <created>1604246765114</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1604246765114</updated>
-    </task>
-    <task id="LOCAL-00004" summary="提交Offer 24 反转链表">
-      <created>1604329319811</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604329319811</updated>
-    </task>
-    <task id="LOCAL-00005" summary="提交Offer25 合并两个排序的链表">
-      <created>1604376708991</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1604376708992</updated>
-    </task>
-    <task id="LOCAL-00006" summary="提交Offer26 树的子结构 代码">
-      <created>1604513012024</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1604513012024</updated>
-    </task>
-    <task id="LOCAL-00007" summary="提交Offer27. 二叉树的镜像代码">
-      <created>1604566644279</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1604566644279</updated>
-    </task>
-    <task id="LOCAL-00008" summary="提交Offer27. 二叉树的镜像代码">
-      <created>1604566781378</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1604566781378</updated>
-    </task>
-    <task id="LOCAL-00009" summary="提交Offer 28. 对称的二叉树 代码">
-      <created>1604628474474</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1604628474474</updated>
-    </task>
-    <task id="LOCAL-00010" summary="提交Offer 29. 顺时针打印矩阵">
-      <created>1604763936076</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1604763936077</updated>
-    </task>
-    <task id="LOCAL-00011" summary="提交Offer 50. 第一个只出现一次的字符代码">
-      <created>1605151884639</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1605151884639</updated>
-    </task>
-    <task id="LOCAL-00012" summary="提交Offer 50. 第一个只出现一次的字符代码">
-      <created>1605152128483</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1605152128483</updated>
-    </task>
-    <task id="LOCAL-00013" summary="提交 翻转单词顺序 代码">
-      <created>1605845119097</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1605845119097</updated>
-    </task>
-    <task id="LOCAL-00014" summary="提交 左旋转字符串 代码">
-      <created>1605978492043</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1605978492043</updated>
-    </task>
-    <task id="LOCAL-00015" summary="提交 Offer 59 - I. 滑动窗口的最大值 代码">
-      <created>1606146621318</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1606146621318</updated>
-    </task>
-    <task id="LOCAL-00016" summary="提交 Offer 59 - I. 滑动窗口的最大值 代码">
-      <created>1606232701149</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1606232701149</updated>
-    </task>
-    <task id="LOCAL-00017" summary="提交 Offer 61. 扑克牌中的顺子 代码">
-      <created>1606232781849</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1606232781849</updated>
-    </task>
-    <task id="LOCAL-00018" summary="提交 Offer 61. 扑克牌中的顺子 代码">
-      <created>1606232913568</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1606232913568</updated>
-    </task>
-    <task id="LOCAL-00019" summary="提交 Offer 62. 圆圈中最后剩下的数字 约瑟夫环题 代码">
-      <created>1606291053625</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1606291053625</updated>
-    </task>
-    <task id="LOCAL-00020" summary="提交 Offer 63. 股票的最大利润(动态规划) 代码">
-      <created>1606377998699</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1606377998699</updated>
-    </task>
-    <task id="LOCAL-00021" summary="提交 生成器生成斐波那契 代码">
-      <created>1606812865529</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1606812865529</updated>
-    </task>
-    <task id="LOCAL-00022" summary="提交 Offer 64. 求1+2+…+n求和 代码">
-      <created>1606835416401</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1606835416401</updated>
-    </task>
-    <task id="LOCAL-00023" summary="提交 isValidSubsequence 代码">
-      <created>1608307412660</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1608307412660</updated>
-    </task>
-    <task id="LOCAL-00024" summary="提交 isValidSubsequence 代码">
-      <created>1608520326842</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1608520326842</updated>
-    </task>
-    <task id="LOCAL-00025" summary="提交 quickSort 代码">
-      <created>1608779468783</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1608779468783</updated>
-    </task>
-    <task id="LOCAL-00026" summary="学习scrapy框架">
-      <created>1615363250572</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1615363250573</updated>
-    </task>
-    <task id="LOCAL-00027" summary="feat: json格式化">
-      <created>1635411907883</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1635411907884</updated>
-    </task>
-    <task id="LOCAL-00028" summary="feat: 冰墩墩py">
-      <created>1644460743138</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1644460743139</updated>
-    </task>
-    <option name="localTasksCounter" value="29" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="steven" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="提交“打家劫舍”代码" />
-    <MESSAGE value="提交Offer 21. 调整数组顺序使奇数位于偶数前面代码" />
-    <MESSAGE value="提交Offer 22 链表中倒数第k个节代码" />
-    <MESSAGE value="提交Offer 24 反转链表" />
-    <MESSAGE value="提交Offer25 合并两个排序的链表" />
-    <MESSAGE value="提交Offer26 树的子结构 代码" />
-    <MESSAGE value="提交Offer27. 二叉树的镜像代码" />
-    <MESSAGE value="提交Offer 28. 对称的二叉树 代码" />
-    <MESSAGE value="提交Offer 29. 顺时针打印矩阵" />
-    <MESSAGE value="提交Offer 50. 第一个只出现一次的字符代码" />
-    <MESSAGE value="提交 翻转单词顺序 代码" />
-    <MESSAGE value="提交 左旋转字符串 代码" />
-    <MESSAGE value="提交 Offer 59 - I. 滑动窗口的最大值 代码" />
-    <MESSAGE value="提交 Offer 61. 扑克牌中的顺子 代码" />
-    <MESSAGE value="提交 Offer 62. 圆圈中最后剩下的数字 约瑟夫环题 代码" />
-    <MESSAGE value="提交 Offer 63. 股票的最大利润(动态规划) 代码" />
-    <MESSAGE value="提交 生成器生成斐波那契 代码" />
-    <MESSAGE value="提交 Offer 64. 求1+2+…+n求和 代码" />
-    <MESSAGE value="提交 isValidSubsequence 代码" />
-    <MESSAGE value="提交 quickSort 代码" />
-    <MESSAGE value="学习scrapy框架" />
-    <MESSAGE value="feat: json格式化" />
-    <MESSAGE value="feat: 冰墩墩py" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 冰墩墩py" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -613,10 +256,12 @@
     <SUITE FILE_PATH="coverage/Python$520.coverage" NAME="520 Coverage Results" MODIFIED="1571625797213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$house_robber_ii.coverage" NAME="house-robber-ii Coverage Results" MODIFIED="1604068932398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1605844443734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="json Coverage Results" MODIFIED="1647943692072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$maxSlidingWindow.coverage" NAME="maxSlidingWindow Coverage Results" MODIFIED="1606146580725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$getKthFromEnd.coverage" NAME="getKthFromEnd Coverage Results" MODIFIED="1604246716382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$isSubStructure.coverage" NAME="isSubStructure Coverage Results" MODIFIED="1604512961802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1571052233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1647946095464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1606377723021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
