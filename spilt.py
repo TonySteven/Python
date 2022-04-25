@@ -7,11 +7,11 @@
 import json
 
 
-def getSpilted(u):
+def get_spilt(u):
     return json.dumps(u.split('、', -1))
 
 
 if __name__ == '__main__':
     a = input("请输入要json格式化的字符：")
     print('\n')
-    print(getSpilted(a))
+    print(get_spilt(a))
