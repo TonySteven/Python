@@ -11,9 +11,9 @@ import requests
 
 
 class DownloadImage:
-    def __init__(self, download_url, img_name, **kw):
+    def __init__(self, download_url, image_name, **kw):
         self.download_url = download_url
-        self.img_name = img_name
+        self.img_name = image_name
         for k, v in kw.items():
             setattr(self, k, v)
 
