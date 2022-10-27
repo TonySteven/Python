@@ -41,7 +41,6 @@ class DownloadImage:
 
     # 多线程下载图片数据
     def thread_down(self, num_processes=4, Async=True):
-
         try:
             # 开4个 worker，没有参数时默认是 cpu 的核心数
             pool = ThreadPool(processes=num_processes)
@@ -93,5 +92,5 @@ for record in records:
 access_end = datetime.datetime.now()
 access_end_str = access_end.strftime('%Y-%m-%d %H:%M:%S')
 print("结束时间: %s" % access_end_str)
-access_delta = (access_end - access_start).seconds * 1000
-print("------总时长(毫秒)----" + str(access_delta))
+access_delta = (access_end - access_start).seconds
+print("------总时长(秒)----" + str(access_delta))

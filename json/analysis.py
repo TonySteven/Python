@@ -7,7 +7,7 @@
 
 import json
 
-nick_name = '末余'
+nick_name = '凡漪'
 
 work = '_w'
 life = '_l'

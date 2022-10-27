@@ -2,28 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment="feature: 更新快排">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ipsort/ip_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/analysis_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/L悦伶_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/L悦伶_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/amily1982_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/huaicheng_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/lucky雅露_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/lyz吉阳之子_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/lyz吉阳之子_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/mingqian_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/mingqian_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/pinky书痴_l.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/pinky书痴_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/vid.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/vid_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/ws桔子_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/ws桔子_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/x橙子q_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/x橙子q_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/一慈_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/一慈_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/七七629_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/七七629_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/乐的惊动了党_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/乐的惊动了党_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/乔希呀_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/乔希呀_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/云帆李_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/云帆李_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/依依1111111_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/依依1111111_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/兰蝶王_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/凡漪_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/勿忘我白云_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/卿珞mm_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/可小米_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/可小米_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/唐央央_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/唐央央_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/墨子塑_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/墨子塑_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/夢梦_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/夢梦_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/婷小舞_l.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/婷小舞_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/小咩咩me_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/小小人生_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/小小夏的莉莉安_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/小雨黏黏_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/小雨黏黏_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/幸福树520_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/幸福树520_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/弎弎Slina_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/弎弎Slina_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/影子dp13400921_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/忍者小花猫_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/忍者小花猫_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/悦花道海玉_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/拾贰同学_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/易水涵_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/易水涵_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/末余_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/桃子醉了_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/樱落是个吃货_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/樱落是个吃货_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/正刚dp80117925_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/正刚dp80117925_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/沐久久_l.json" afterDir="false" />
@@ -32,22 +78,36 @@
       <change afterPath="$PROJECT_DIR$/json/data/爱气奶盖的猫葵葵_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/玖玖酱手作_l.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/玖玖酱手作_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/琥珀瞳孔_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/琥珀瞳孔_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/糖糖桐桐_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/糖糖桐桐_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/糖糖糖Zz_l.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/糖糖糖Zz_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/花三BX_作品.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/花照水1993_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/花照水1993_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/芳菲岁月_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/芳菲岁月_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/茗轩观雨_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/茗轩观雨_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/莉萍_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/莉萍_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/蓝泉_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/蓝泉_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/蘭子君_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/蘭子君_动态.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/赵晨虹_作品.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/辣手小芥末_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/辣手小芥末_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/阿灰与阿威_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/阿祖JOJO_l.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/阿祖JOJO_w.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/陌梓曦baby_l.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/陌梓曦baby_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/雅玳_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/雅玳_动态.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data/雪儿gg1213_w.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/顺子0708_作品.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/顺子0708_动态.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -55,8 +115,7 @@
       <change beforePath="$PROJECT_DIR$/json/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json/book/book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/json/book/book.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json/去除豆瓣图书目录页码.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/去除豆瓣图书目录页码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/解析json并下载自定义图片名称的图片.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/解析json并下载自定义图片名称的图片.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +161,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/quickSort.py" root0="SKIP_INSPECTION" />
     <setting file="file:///opt/anaconda3/lib/python3.8/site-packages/requests/sessions.py" root0="SKIP_INSPECTION" />
@@ -122,8 +184,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;260b61&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/steven/PycharmProjects/Python/json/data&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
@@ -132,10 +196,14 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/json/data" />
+      <recent name="$PROJECT_DIR$/json" />
+      <recent name="$PROJECT_DIR$/json/book" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/json/book" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quickSort">
+  <component name="RunManager" selected="Python.analysis_1">
     <configuration name="去除豆瓣图书目录页码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="analysis_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +261,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/analysis_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="解析json并下载自定义图片名称的图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/解析json并下载自定义图片名称的图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,10 +316,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quickSort" />
+        <item itemvalue="Python.analysis_1" />
         <item itemvalue="Python.去除豆瓣图书目录页码" />
         <item itemvalue="Python.analysis" />
-        <item itemvalue="Python.json" />
+        <item itemvalue="Python.解析json并下载自定义图片名称的图片" />
         <item itemvalue="Python.skipSSLTest" />
       </list>
     </recent_temporary>
@@ -303,7 +371,52 @@
       <workItem from="1655110377149" duration="808000" />
       <workItem from="1655111431314" duration="1762000" />
       <workItem from="1655691376017" duration="2109000" />
-      <workItem from="1655791973617" duration="2360000" />
+      <workItem from="1655791973617" duration="3594000" />
+      <workItem from="1655881399953" duration="1404000" />
+      <workItem from="1655953748194" duration="1510000" />
+      <workItem from="1656406169434" duration="712000" />
+      <workItem from="1656903069600" duration="773000" />
+      <workItem from="1656904684187" duration="5000" />
+      <workItem from="1656906529876" duration="963000" />
+      <workItem from="1657505300257" duration="1135000" />
+      <workItem from="1657679833145" duration="610000" />
+      <workItem from="1657680756026" duration="128000" />
+      <workItem from="1657680892632" duration="3349000" />
+      <workItem from="1658212817664" duration="844000" />
+      <workItem from="1658729289296" duration="576000" />
+      <workItem from="1659323787799" duration="1749000" />
+      <workItem from="1659577867861" duration="217000" />
+      <workItem from="1659947392740" duration="611000" />
+      <workItem from="1660119833317" duration="70000" />
+      <workItem from="1660119916545" duration="642000" />
+      <workItem from="1660272297038" duration="353000" />
+      <workItem from="1660534980040" duration="568000" />
+      <workItem from="1661141710591" duration="107000" />
+      <workItem from="1661751452216" duration="1283000" />
+      <workItem from="1662011443917" duration="76000" />
+      <workItem from="1662011526545" duration="4459000" />
+      <workItem from="1662019794811" duration="2558000" />
+      <workItem from="1662087606798" duration="1235000" />
+      <workItem from="1662097032747" duration="1961000" />
+      <workItem from="1662356202084" duration="748000" />
+      <workItem from="1662369125271" duration="2000" />
+      <workItem from="1662604092106" duration="58000" />
+      <workItem from="1663041732262" duration="103000" />
+      <workItem from="1663041838825" duration="2000" />
+      <workItem from="1663570999176" duration="219000" />
+      <workItem from="1663923226848" duration="4360000" />
+      <workItem from="1664171428749" duration="3073000" />
+      <workItem from="1664344626438" duration="4313000" />
+      <workItem from="1665367788581" duration="1305000" />
+      <workItem from="1665546550238" duration="708000" />
+      <workItem from="1665560984993" duration="6000" />
+      <workItem from="1665653948020" duration="634000" />
+      <workItem from="1666060341669" duration="806000" />
+      <workItem from="1666322746759" duration="815000" />
+      <workItem from="1666599521694" duration="553000" />
+      <workItem from="1666668181157" duration="1724000" />
+      <workItem from="1666671740210" duration="596000" />
+      <workItem from="1666848899843" duration="2550000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加json解析功能">
       <created>1647946565547</created>
@@ -326,7 +439,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654850291491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feature: 更新快排注释.">
+      <created>1655794361709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655794361709</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feature:更新json解析文件">
+      <created>1663927624052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663927624052</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feature: 更新快排">
+      <created>1663927746177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663927746177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feature: 添加异步下载功能.">
+      <created>1664347128277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664347128277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +477,11 @@
     <MESSAGE value="feat: 添加json解析功能" />
     <MESSAGE value="style: 格式化spilt.py文件." />
     <MESSAGE value="feature: 新增去除豆瓣图书目录页码.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: 新增去除豆瓣图书目录页码.py." />
+    <MESSAGE value="feature: 更新快排注释." />
+    <MESSAGE value="feature:更新json解析文件" />
+    <MESSAGE value="feature: 更新快排" />
+    <MESSAGE value="feature: 添加异步下载功能." />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: 添加异步下载功能." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -360,6 +505,13 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -370,42 +522,43 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$skipSSLTest.coverage" NAME="skipSSLTest Coverage Results" MODIFIED="1644899630322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$house_robber_ii.coverage" NAME="house-robber-ii Coverage Results" MODIFIED="1604068932398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$itcast.coverage" NAME="itcast Coverage Results" MODIFIED="1615351817146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyProject/mySpider/mySpider/spiders" />
-    <SUITE FILE_PATH="coverage/Python$isSymmetric.coverage" NAME="isSymmetric Coverage Results" MODIFIED="1605504975192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$reverseLeftWords.coverage" NAME="reverseLeftWords Coverage Results" MODIFIED="1605978473137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$520.coverage" NAME="520 Coverage Results" MODIFIED="1571625797213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$tessercat.coverage" NAME="tessercat Coverage Results" MODIFIED="1615346040515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
-    <SUITE FILE_PATH="coverage/Python$isSubStructure.coverage" NAME="isSubStructure Coverage Results" MODIFIED="1604512961802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$reverseList.coverage" NAME="reverseList Coverage Results" MODIFIED="1604329298804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$sumNums.coverage" NAME="sumNums Coverage Results" MODIFIED="1606835392921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1608307391047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$BingDwenDwen.coverage" NAME="BingDwenDwen Coverage Results" MODIFIED="1644898891442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$getKthFromEnd.coverage" NAME="getKthFromEnd Coverage Results" MODIFIED="1604246716382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="json Coverage Results" MODIFIED="1647943692072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1571052233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$isStraight.coverage" NAME="isStraight Coverage Results" MODIFIED="1606232687350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="去除豆瓣图书目录页码 覆盖结果" MODIFIED="1655692096096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$lastRemaining.coverage" NAME="lastRemaining Coverage Results" MODIFIED="1606290433151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1605844443734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Offer_21.coverage" NAME="Offer 21 Coverage Results" MODIFIED="1604165531438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$spiralOrder.coverage" NAME="spiralOrder Coverage Results" MODIFIED="1604763919575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$upper.coverage" NAME="upper Coverage Results" MODIFIED="1560494056857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$analysis.coverage" NAME="analysis 覆盖结果" MODIFIED="1666060543184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1606812766067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1606377723021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$analysis.coverage" NAME="analysis 覆盖结果" MODIFIED="1655113209162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$maxSlidingWindow.coverage" NAME="maxSlidingWindow Coverage Results" MODIFIED="1606146580725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$spilt.coverage" NAME="spilt 覆盖结果" MODIFIED="1635407576824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$mirrorTree.coverage" NAME="mirrorTree Coverage Results" MODIFIED="1604566543863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$jsonDump.coverage" NAME="jsonDump 覆盖结果" MODIFIED="1635407348282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$is_unique_lcci.coverage" NAME="is-unique-lcci Coverage Results" MODIFIED="1602320214614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$two_nums.coverage" NAME="two_nums Coverage Results" MODIFIED="1602317261181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$upper.coverage" NAME="upper Coverage Results" MODIFIED="1560494056857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$DFS.coverage" NAME="DFS Coverage Results" MODIFIED="1571055606999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1605152121723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$reverseLeftWords.coverage" NAME="reverseLeftWords Coverage Results" MODIFIED="1605978473137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$spilt.coverage" NAME="spilt 覆盖结果" MODIFIED="1635407576824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$sumNums.coverage" NAME="sumNums Coverage Results" MODIFIED="1606835392921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Offer_21.coverage" NAME="Offer 21 Coverage Results" MODIFIED="1604165531438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$skipSSLTest.coverage" NAME="skipSSLTest Coverage Results" MODIFIED="1644899630322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$maxProfit.coverage" NAME="maxProfit Coverage Results" MODIFIED="1606377723021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1604376382871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1571052233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$two_nums.coverage" NAME="two_nums Coverage Results" MODIFIED="1602317261181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$BingDwenDwen.coverage" NAME="BingDwenDwen Coverage Results" MODIFIED="1644898891442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$is_unique_lcci.coverage" NAME="is-unique-lcci Coverage Results" MODIFIED="1602320214614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$getKthFromEnd.coverage" NAME="getKthFromEnd Coverage Results" MODIFIED="1604246716382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$mirrorTree.coverage" NAME="mirrorTree Coverage Results" MODIFIED="1604566543863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$spiltAndTurnObjact.coverage" NAME="spiltAndTurnObjact 覆盖结果" MODIFIED="1635406860742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$quickSort.coverage" NAME="quickSort 覆盖结果" MODIFIED="1655792972603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$itcast.coverage" NAME="itcast Coverage Results" MODIFIED="1615351817146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyProject/mySpider/mySpider/spiders" />
+    <SUITE FILE_PATH="coverage/Python$reverseList.coverage" NAME="reverseList Coverage Results" MODIFIED="1604329298804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1605844443734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$lastRemaining.coverage" NAME="lastRemaining Coverage Results" MODIFIED="1606290433151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$jsonDump.coverage" NAME="jsonDump 覆盖结果" MODIFIED="1635407348282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$maxSlidingWindow.coverage" NAME="maxSlidingWindow Coverage Results" MODIFIED="1606146580725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$tessercat.coverage" NAME="tessercat Coverage Results" MODIFIED="1615346040515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />
+    <SUITE FILE_PATH="coverage/Python$spiralOrder.coverage" NAME="spiralOrder Coverage Results" MODIFIED="1604763919575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="去除豆瓣图书目录页码 覆盖结果" MODIFIED="1666668794818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$analysis_1.coverage" NAME="analysis_1 覆盖结果" MODIFIED="1666850396809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$isSubStructure.coverage" NAME="isSubStructure Coverage Results" MODIFIED="1604512961802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$isSymmetric.coverage" NAME="isSymmetric Coverage Results" MODIFIED="1605504975192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="解析json并下载自定义图片名称的图片 覆盖结果" MODIFIED="1664347712187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$isValidSubsequence.coverage" NAME="isValidSubsequence Coverage Results" MODIFIED="1608307391047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$isStraight.coverage" NAME="isStraight Coverage Results" MODIFIED="1606232687350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$firstUniqChar.coverage" NAME="firstUniqChar Coverage Results" MODIFIED="1605152121723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
