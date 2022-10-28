@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment="feature: 更新快排">
+    <list default="true" id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment="feature: 新增使用pandas把数据写入Excel文件.py">
       <change afterPath="$PROJECT_DIR$/json/analysis_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/course.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/vid.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/json/data/vid_leason.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/pandasExcel文件写入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json/analysis_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/analysis_1.py" afterDir="false" />
     </list>
@@ -313,7 +309,7 @@
       <workItem from="1666671740210" duration="596000" />
       <workItem from="1666848899843" duration="2550000" />
       <workItem from="1666860641676" duration="6538000" />
-      <workItem from="1666925049839" duration="131000" />
+      <workItem from="1666925049839" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加json解析功能">
       <created>1647946565547</created>
@@ -364,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664347128277</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feature: 新增使用pandas把数据写入Excel文件.py">
+      <created>1666925263459</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666925263459</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +381,8 @@
     <MESSAGE value="feature:更新json解析文件" />
     <MESSAGE value="feature: 更新快排" />
     <MESSAGE value="feature: 添加异步下载功能." />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: 添加异步下载功能." />
+    <MESSAGE value="feature: 新增使用pandas把数据写入Excel文件.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: 新增使用pandas把数据写入Excel文件.py" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
