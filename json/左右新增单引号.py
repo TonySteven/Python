@@ -11,7 +11,9 @@ book_path = r"/Users/steven/PycharmProjects/Python/json/book/book.txt"
 f = open(book_path, 'r', encoding='utf-8')
 file1 = open(r"/Users/steven/PycharmProjects/Python/json/book/new_book.txt", 'a')
 
-lines = f.readlines()  # 读取全部内容 ，并以列表方式返回
+# 读取文件
+lines = f.readlines()
+
 for line in lines:
     # 前新增单引号 后面新增单引号加逗号。
     line = "'" + line.strip() + "'" + ","
