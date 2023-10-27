@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/json/读取json数据并生成对应的insertSql语句.py" dialect="MySQL" />
+  </component>
+</project>

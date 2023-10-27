@@ -24,6 +24,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="dict.*" />
+          <option value="path" />
         </list>
       </option>
     </inspection_tool>
