@@ -5,35 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff017a63-2b49-4533-ba08-b22e7cf238cf" name="Changes" comment=":sparkles: feature: 更新文件.">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51a7ac6ea0bd00059b6c5030f56f771baf32d2fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52bc16fc990ce877c186f73bfa3a6039125854e5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af65066ab5079d047c524ce9500dd5d261a1083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e02d03eb2011409622ddef642c9b27a408852c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aafcd8043bae696ad56683d156f91732c00d2eff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7f78782c884bc1faf6300396c3464a3bc84b89b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb30cf5b8fdf3edea9fdc03e371d728ba0409580" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec6545f746f4d3764a055872b30291f52585c646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/1/51a7ac6ea0bd00059b6c5030f56f771baf32d2fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/52bc16fc990ce877c186f73bfa3a6039125854e5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5af65066ab5079d047c524ce9500dd5d261a1083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e02d03eb2011409622ddef642c9b27a408852c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aafcd8043bae696ad56683d156f91732c00d2eff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b7f78782c884bc1faf6300396c3464a3bc84b89b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/b/eb30cf5b8fdf3edea9fdc03e371d728ba0409580" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ec6545f746f4d3764a055872b30291f52585c646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/book/good.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/book/object.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/分析json算总数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/分析txt遍历行数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/book/response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/分析json算总数.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/分析json算总数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/读取Excel数据并转换成json.py" beforeDir="false" afterPath="$PROJECT_DIR$/json/读取Excel数据并转换成json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +88,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/steven/PycharmProjects/Python/json&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/steven/PycharmProjects/Python/json/book&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -122,15 +99,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/json" />
       <recent name="$PROJECT_DIR$/json/book" />
+      <recent name="$PROJECT_DIR$/json" />
       <recent name="$PROJECT_DIR$/json/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/json/book" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.分析txt遍历行数">
+  <component name="RunManager" selected="Python.读取Excel数据并转换成json">
     <configuration name="左右新增单引号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -573,11 +550,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.分析txt遍历行数" />
+        <item itemvalue="Python.读取Excel数据并转换成json" />
         <item itemvalue="Python.分析json算总数" />
         <item itemvalue="Python.左右新增单引号" />
+        <item itemvalue="Python.分析txt遍历行数" />
         <item itemvalue="Python.读取json数据并生成对应的insertSql语句" />
-        <item itemvalue="Python.读取Excel数据并转换成json" />
       </list>
     </recent_temporary>
   </component>
@@ -713,7 +690,13 @@
       <workItem from="1697598757969" duration="110000" />
       <workItem from="1698228767753" duration="2537000" />
       <workItem from="1698286630974" duration="25000" />
-      <workItem from="1698389233524" duration="4480000" />
+      <workItem from="1698389233524" duration="5094000" />
+      <workItem from="1698896314669" duration="2271000" />
+      <workItem from="1698993904063" duration="11000" />
+      <workItem from="1699162157565" duration="4002000" />
+      <workItem from="1700704375147" duration="239000" />
+      <workItem from="1700704628396" duration="4141000" />
+      <workItem from="1700721220490" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加json解析功能">
       <created>1647946565547</created>
@@ -826,11 +809,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695805227356</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=":sparkles: feature: 更新文件.">
+      <option name="closed" value="true" />
+      <created>1698399759084</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698399759085</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
@@ -893,11 +888,6 @@
           <line>13</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/json/分析json算总数.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -923,7 +913,7 @@
     <SUITE FILE_PATH="coverage/Python$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1606812766067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$spilt.coverage" NAME="spilt 覆盖结果" MODIFIED="1635407576824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$txt.coverage" NAME="分析txt遍历行数 覆盖结果" MODIFIED="1698393293610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$Exceljson.coverage" NAME="读取Excel数据并转换成json 覆盖结果" MODIFIED="1695802875746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$Exceljson.coverage" NAME="读取Excel数据并转换成json 覆盖结果" MODIFIED="1700705877507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$is_unique_lcci.coverage" NAME="is-unique-lcci Coverage Results" MODIFIED="1602320214614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_new$analysis_2.coverage" NAME="analysis_2 覆盖结果" MODIFIED="1666867396963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$skipSSLTest.coverage" NAME="skipSSLTest Coverage Results" MODIFIED="1644899630322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -937,8 +927,8 @@
     <SUITE FILE_PATH="coverage/Python$jsoninsertSql.coverage" NAME="读取json数据并生成对应的insertSql语句 覆盖结果" MODIFIED="1695802888159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$spiltAndTurnObjact.coverage" NAME="spiltAndTurnObjact 覆盖结果" MODIFIED="1635406860742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_new$pandasExcel.coverage" NAME="pandasExcel文件写入 覆盖结果" MODIFIED="1666866911746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="分析json算总数 覆盖结果" MODIFIED="1698391988938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="左右新增单引号 覆盖结果" MODIFIED="1698231820119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="分析json算总数 覆盖结果" MODIFIED="1699163616866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="左右新增单引号 覆盖结果" MODIFIED="1699162785902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
     <SUITE FILE_PATH="coverage/Python$tid_maker.coverage" NAME="tid_maker Coverage Results" MODIFIED="1575964066966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$reverseList.coverage" NAME="reverseList Coverage Results" MODIFIED="1604329298804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$tessercat.coverage" NAME="tessercat Coverage Results" MODIFIED="1615346040515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫/Tesseract 图像识别" />

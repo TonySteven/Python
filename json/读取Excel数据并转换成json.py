@@ -38,6 +38,6 @@ def save_json(open_path, save_path):
 
 
 if __name__ == '__main__':
-    open_path = r'/Users/steven/Downloads/unit1.xlsx'
+    open_path = r'/Users/steven/Downloads/manager.xlsx'
     save_path = './book/transform.json'
     save_json(open_path, save_path)

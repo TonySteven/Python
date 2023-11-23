@@ -7,13 +7,15 @@
 
 import json
 
+from numpy import double
+
 # 加载文件
-work_path = r"/Users/steven/PycharmProjects/Python/json/book/object.json"
+work_path = r"/Users/steven/PycharmProjects/Python/json/book/response.json"
 file = open(work_path, 'r', encoding='utf-8')
 
 # 解析数据
 data = json.load(file)
-records = data["detail"]
+records = data["data"]["rows"]
 
 # 初始化总tax_amount
 total_tax_amount = 0
@@ -22,13 +24,13 @@ print(len(records))
 
 for record in records:
     tax_amount = record["taxAmount"]
-    # 判断tax_amount是否有超过2位小数的情况
-    if len(str(tax_amount).split(".")[1]) > 2:
-        print("tax_amount有超过2位小数的情况")
-        print(tax_amount)
+
+    # 如果单据类型为采购退货, 则含税金额取负数.
+    if record["type"]["value"] == "CGTHD":
+        tax_amount = double(tax_amount) * -1
 
     # 累加tax_amount
-    total_tax_amount += tax_amount
+    total_tax_amount += double(tax_amount)
 
 # 打印总tax_amount
-print(total_tax_amount)
+print("总计金额: " + str(total_tax_amount))
