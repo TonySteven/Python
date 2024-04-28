@@ -15,7 +15,7 @@ lines = f.readlines()  # 读取全部内容 ，并以列表方式返回
 for line in lines:
     # print(line)
     # rsplit 从右往左 遇见的第一个[.].进行截取.
-    r = line.rsplit(' ', 1)
+    r = line.rsplit('/ ', 1)
     # 如果是数组[0]是否包含数字 则截取[1].
     # 如果数组数量大于1 则截取[0]
     if len(r) > 1:
