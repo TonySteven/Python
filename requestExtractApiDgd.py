@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta
 
+import requests
+
 import json
 
 start_time = datetime.strptime("2024-05-01 00:00:00", "%Y-%m-%d %H:%M:%S")
@@ -19,4 +21,23 @@ while current_time < end_time:
     })
     current_time = next_time
 
-print(json.dumps(requestBodyList, indent=2))
+# 请求的 URL
+url = 'https://extract.imugua.cn/timings-full'
+
+# 请求头
+headers = {
+    'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
+    'Content-Type': 'application/json',
+    'Accept': '*/*',
+    'Host': 'extract.imugua.cn',
+    'Connection': 'keep-alive'
+}
+
+# 遍历列表并发送 POST 请求
+for data in requestBodyList:
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+
+    # 输出响应结果
+    print(f"Request Data: {data}")
+    print(f"Response Status Code: {response.status_code}")
+    print(f"Response Body: {response.text}\n")
