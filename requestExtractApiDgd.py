@@ -4,9 +4,9 @@ import requests
 
 import json
 
-start_time = datetime.strptime("2024-05-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+start_time = datetime.strptime("2024-05-15 00:00:00", "%Y-%m-%d %H:%M:%S")
 end_time = datetime.strptime("2024-06-01 00:00:00", "%Y-%m-%d %H:%M:%S")
-interval = timedelta(minutes=180)
+interval = timedelta(minutes=5)
 
 requestBodyList = []
 
@@ -16,7 +16,7 @@ while current_time < end_time:
     if next_time > end_time:
         next_time = end_time
     requestBodyList.append({
-        "handlerName": "ReportStoreWarehouseSummaryHandler",
+        "handlerName": "ReportTertiaryAccountCopyHandler",
         "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=1634800674453000010"
     })
     current_time = next_time
@@ -33,6 +33,10 @@ headers = {
     'Connection': 'keep-alive'
 }
 
+# 初始化任务id list
+task_id_list = []
+
+
 # 遍历列表并发送 POST 请求
 for data in requestBodyList:
     response = requests.post(url, headers=headers, data=json.dumps(data))
@@ -41,3 +45,8 @@ for data in requestBodyList:
     print(f"Request Data: {data}")
     print(f"Response Status Code: {response.status_code}")
     print(f"Response Body: {response.text}\n")
+    # response.id set 到task_id_list中
+    task_id_list.append(response.json().get('id'))
+
+# 最后控制台 打印 task_id_list
+print(f"task_id_list: {task_id_list}")
