@@ -17,7 +17,7 @@ def json_inputs(open_path):
     :param path: 需要转换excel文件的路径
     :return: 返回json列表
     """
-    df = pd.read_excel(open_path)
+    df = pd.read_excel(open_path, engine='openpyxl')
     # print(df)
     cols = [colName for colName in df.columns]
     json_list = []
@@ -38,6 +38,6 @@ def save_json(open_path, save_path):
 
 
 if __name__ == '__main__':
-    open_path = r'/Users/steven/Downloads/sup.xlsx'
+    open_path = r'/Users/steven/Downloads/sup2.xlsx'
     save_path = './book/transform.json'
     save_json(open_path, save_path)

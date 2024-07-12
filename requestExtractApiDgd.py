@@ -4,8 +4,8 @@ import requests
 
 import json
 
-start_time = datetime.strptime("2024-05-15 00:00:00", "%Y-%m-%d %H:%M:%S")
-end_time = datetime.strptime("2024-06-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+start_time = datetime.strptime("2024-06-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+end_time = datetime.strptime("2024-06-30 23:59:59", "%Y-%m-%d %H:%M:%S")
 interval = timedelta(minutes=5)
 
 requestBodyList = []
