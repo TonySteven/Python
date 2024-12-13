@@ -1,11 +1,15 @@
-import json
 from datetime import datetime, timedelta
 
 import requests
 
-start_time = datetime.strptime("2024-08-01 00:00:00", "%Y-%m-%d %H:%M:%S")
-end_time = datetime.strptime("2024-09-01 00:00:00", "%Y-%m-%d %H:%M:%S")
-interval = timedelta(minutes=3)
+import json
+
+start_time = datetime.strptime("2024-09-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+end_time = datetime.strptime("2024-12-30 00:00:00", "%Y-%m-%d %H:%M:%S")
+
+# interval = timedelta(minutes=5)
+# 按照一个月步长同步
+interval = timedelta(days=10)
 
 requestBodyList = []
 
@@ -16,7 +20,7 @@ while current_time < end_time:
         next_time = end_time
     requestBodyList.append({
         "handlerName": "ReportTertiaryAccountCopyHandler",
-        "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=1645512743732000029"
+        "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=1645512743732000029,goodsid[Eq]=1000246"
     })
     current_time = next_time
 
