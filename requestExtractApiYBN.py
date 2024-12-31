@@ -4,8 +4,8 @@ import requests
 
 import json
 
-start_time = datetime.strptime("2024-08-01 00:00:00", "%Y-%m-%d %H:%M:%S")
-end_time = datetime.strptime("2024-08-31 23:59:59", "%Y-%m-%d %H:%M:%S")
+start_time = datetime.strptime("2024-12-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+end_time = datetime.strptime("2025-01-01 00:00:00", "%Y-%m-%d %H:%M:%S")
 interval = timedelta(minutes=60)
 
 requestBodyList = []
@@ -17,7 +17,7 @@ while current_time < end_time:
         next_time = end_time
     requestBodyList.append({
         "handlerName": "ReportTertiaryAccountCopyHandler",
-        "queryDsl": f"business_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},business_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=167937346193242343"
+        "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=167937346193242343"
     })
     current_time = next_time
 
