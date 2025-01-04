@@ -17,7 +17,7 @@ while current_time < end_time:
         next_time = end_time
     requestBodyList.append({
         "handlerName": "ReportTertiaryAccountCopyHandler",
-        "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=167937346193242343"
+        "queryDsl": f"update_time[Ge]={current_time.strftime('%Y-%m-%d %H:%M:%S')},update_time[Le]={next_time.strftime('%Y-%m-%d %H:%M:%S')},company_id[Eq]=169355233447821809"
     })
     current_time = next_time
 

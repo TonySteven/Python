@@ -6,7 +6,7 @@ import json
 
 start_time = datetime.strptime("2024-12-01 00:00:00", "%Y-%m-%d %H:%M:%S")
 end_time = datetime.strptime("2025-01-01 00:00:00", "%Y-%m-%d %H:%M:%S")
-interval = timedelta(minutes=60)
+interval = timedelta(minutes=5)
 
 requestBodyList = []
 
