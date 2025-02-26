@@ -1,11 +1,10 @@
+import json
 from datetime import datetime, timedelta
 
 import requests
 
-import json
-
-start_time = datetime.strptime("2024-12-27 00:00:00", "%Y-%m-%d %H:%M:%S")
-end_time = datetime.strptime("2025-01-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+start_time = datetime.strptime("2025-02-01 00:00:00", "%Y-%m-%d %H:%M:%S")
+end_time = datetime.strptime("2025-02-24 00:00:00", "%Y-%m-%d %H:%M:%S")
 
 interval = timedelta(minutes=5)
 # 按照一个月步长同步
