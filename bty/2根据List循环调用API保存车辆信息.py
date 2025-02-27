@@ -1,6 +1,25 @@
+import os
+
+import pandas as pd
 import requests
 
 import json
+
+# 定义常量 token
+TOKEN = 'lmnchain4a0e97068d524063933871329f69599c'
+
+# 读取上传的 Excel 文件
+file_path = r'/Users/steven/Downloads/副本司机电话.xlsx'
+if not os.path.exists(file_path):
+    print(f"文件不存在: {file_path}")
+else:
+    print(f"文件路径存在: {file_path}")
+
+sheet_data = pd.read_excel(file_path, sheet_name='Sheet1')
+
+# 清理数据
+sheet_data.columns = ['Name', 'License', 'Phone']
+sheet_data = sheet_data.drop(index=0)
 
 # API URL
 url = 'https://supply.umugua.net/api/chain/scCar/save'
@@ -22,29 +41,27 @@ headers = {
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-origin',
     'source': '1',
-    'token': 'lmnchain01155e935fca420ea0bb3716cac2375c',  # 替换为你自己的 token
+    'token': TOKEN,  # 使用全局变量
     'traceid': '1740534489573',
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36'
 }
 
-# 车牌号列表
-car_numbers = [
-    "鲁AJ95F6", "鲁A77M8U", "鲁U3C109", "鲁J880ⅤY", "鲁AFR6176", "鲁AFQ0777", "鲁A39Q2L",
-    "鲁USM156", "鲁A7F3K9", "鲁BY396W", "鲁USJ809", "鲁FR96Q9", "鲁KP6S10", "鲁BYP015",
-    "鲁A28U5V", "鲁U3E701", "鲁U15Z31", "鲁BL3965", "鲁UJS092", "鲁U9B698", "鲁B0Q6S6",
-    "鲁UKB367", "鲁U9E352", "鲁B56T2F", "鲁BF731B", "鲁B593X3", "鲁UMC355", "鲁UHG527",
-    "鲁B93RB6", "鲁B9G673", "鲁BCB575", "鲁UWS139", "鲁B7Y660", "鲁G0E88E", "鲁A39Q2L",
-    "鲁U6D613", "鲁B06J63", "鲁UN3350", "鲁BL5835"
-]
-
 # 循环遍历车牌号列表并调用 API
-for car_number in car_numbers:
+for index, row in sheet_data.iterrows():
+    # 清理 License 列，移除所有空格
+    car_number = row['License'].strip().replace(" ", "")
+
+    # 如果车牌号为空，则跳过该行
+    if not car_number:
+        print(f"跳过空车牌号，第 {index + 1} 行")
+        continue
+
     payload = {
         "company_id": "1645512743732000029",
         "shop_id": "1645512743763000017",
         "companyId": "1645512743732000029",
         "shopId": "1645512743763000017",
-        "token": "lmnchain01155e935fca420ea0bb3716cac2375c",  # 替换为你自己的 token
+        "token": TOKEN,  # 使用全局变量
         "car_no": car_number,
         "brand": "半天妖"  # 车品牌
     }
